@@ -1,0 +1,10 @@
+com/taeyun/book/testproject/dto/HelloResponseDtoTest.java
+ com.taeyun.book.testproject.dto.HelloResponseDtoTest
+com/taeyun/book/testproject/HelloControllerTest.java
+ com.taeyun.book.testproject.HelloControllerTest
+com/taeyun/book/testproject/web/PostsApiControllerTest.java
+ com.taeyun.book.testproject.web.PostsApiControllerTest
+com/taeyun/book/testproject/domain/posts/PostsRepositoryTest.java
+ com.taeyun.book.testproject.domain.posts.PostsRepositoryTest
+com/taeyun/book/testproject/web/IndexControllerTest.java
+ com.taeyun.book.testproject.web.IndexControllerTest
